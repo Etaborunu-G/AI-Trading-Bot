@@ -1,0 +1,14 @@
+{
+  "provider": "Yahoo Finance chart",
+  "symbol": "F",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/F?period1=1577836800&period2=1735689600&interval=1d&events=div%2Csplits",
+  "quote_currency": "USD",
+  "rows": 1258,
+  "retrieved_utc": "2026-11-09T19:28:41.936786+00:00",
+  "source_sha256": "888399308dbbda22b78b263e992136d41e39ee2ba80b20bd4ef42d7e644018af",
+  "sha256": "c75d38511781f4805efd5205b01a1e8b66882afda7703d419954430ad7b05de0",
+  "adjustment_status": "Vendor OHLC; not dividend-adjusted; retroactive split adjustments possible",
+  "dividend_events": 14,
+  "start": "2020-01-02",
+  "end": "2024-12-31"
+}

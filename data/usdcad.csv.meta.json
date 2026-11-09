@@ -1,0 +1,9 @@
+{
+  "provider": "Bank of Canada",
+  "series": "FXUSDCAD",
+  "url": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD/json?start_date=2019-12-20&end_date=2024-12-31",
+  "rows": 1252,
+  "retrieved_utc": "2026-11-09T19:20:43.496580+00:00",
+  "source_sha256": "eeac6074d43f0544e207d6fceb5f1023249f34a8fffb8178551d4da39d11947a",
+  "sha256": "abe52e50f5a03b7987b6183ab0fb5dea11f62bcf814ba337acaa32f9fa4e6427"
+}

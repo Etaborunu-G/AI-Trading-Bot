@@ -1,0 +1,14 @@
+{
+  "provider": "Yahoo Finance chart",
+  "symbol": "SPY",
+  "url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=1577836800&period2=1735689600&interval=1d&events=div%2Csplits",
+  "quote_currency": "USD",
+  "rows": 1258,
+  "retrieved_utc": "2026-11-09T19:26:48.946809+00:00",
+  "source_sha256": "748ec5e37bd4ec9f7d030cc725583ae16a797dee8beb6da7a423efc44d321676",
+  "sha256": "af2b5a61769f9447e7cd4636fd86559111c8909b774b2e6911a58d266fc31345",
+  "adjustment_status": "Vendor OHLC; not dividend-adjusted; retroactive split adjustments possible",
+  "dividend_events": 20,
+  "start": "2020-01-02",
+  "end": "2024-12-31"
+}
